@@ -1,0 +1,243 @@
+@charset "utf-8";
+
+.imghover1{
+	
+	background-image: url(../img/obras/quartier2.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover1:hover{background-image: url(../img/obras/quartier4.jpg)}
+
+.imghover2{
+	
+	background-image: url(../img/obras/Master1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 80%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover2:hover{background-image: url(../img/obras/Master2.jpg)}
+
+.imghover3{
+	
+	background-image: url(../img/obras/Aquarela1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 80%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover3:hover{background-image: url(../img/obras/Aquarela2.jpg)}
+
+.imghover4{
+	
+	background-image: url(../img/obras/salem1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 80%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover4:hover{background-image: url(../img/obras/salem2.jpg)}
+
+.imghover5{
+	
+	background-image: url(../img/obras/2019/FOTO2.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 50%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover5:hover{background-image: url(../img/obras/2019/FOTO3.jpg)}
+
+.imghover6{
+	
+	background-image: url(../img/obras/Soleil-1.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 50%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover6:hover{background-image: url(../img/obras/Soleil-2.jpg);}
+
+.imghover7{
+	
+	background-image: url(../img/obras/2020/AVANT-GARDEN-1.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover7:hover{background-image: url(../img/obras/2020/AVANT-GARDEN-2.jpg);}
+
+.imghover8{
+	
+	background-image: url(../img/obras/2020/RESIDENCIAL-SANTORO-01.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover8:hover{background-image: url(../img/obras/2020/RESIDENCIAL-SANTORO-02.jpg);}
+
+.imghover9{
+	
+	background-image: url(../img/obras/2020/dijon.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover9:hover{background-image: url(../img/obras/2020/dijon.jpg);}
+
+.imghover10{
+	
+	background-image: url(../img/obras/2021/ParkAvenue.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+	
+}
+.imghover10:hover{background-image: url(../img/obras/2021/ParkAvenue.jpg);}
+
+.imghover11{
+	
+	background-image: url(../img/obras/2021/Tirreno.jpeg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover11:hover{background-image: url(../img/obras/2021/Tirreno-1.jpeg);}
+
+.imghover12{
+	
+	background-image: url(../img/obras/2021/Campolim.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover12:hover{background-image: url(../img/obras/2021/Campolim.jpg);}
+
+.imghover13{
+	
+	background-image: url(../img/obras/2022/Unique_Jardim.jpeg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 240px;
+	text-align: center;
+}
+.imghover13:hover{background-image: url(../img/obras/2022/Unique_Jardim.jpeg);}
+
+.imghover14{
+	
+	background-image: url(../img/obras/2023/Natura1.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover14:hover{background-image: url(../img/obras/2023/Natura2.jpg);}
+
+.imghover15{
+	
+	background-image: url(../img/obras/2023/vermont1.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover15:hover{background-image: url(../img/obras/2023/vermont2.jpg);}
+
+
+.imghover16{
+	
+	background-image: url(../img/obras/2023/unico1.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover16:hover{background-image: url(../img/obras/2023/unico2.jpg);}
+
+.imghover17{
+	
+	background-image: url(../img/obras/2023/ICONE-1.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover17:hover{background-image: url(../img/obras/2023/ICONE-2.jpg);}
+
+.imghover18{
+	
+	background-image: url(../img/obras/PARADISE-1.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover18:hover{background-image: url(../img/obras/PARADISE-2.jpg);}
+
+.imghover19{
+	
+	background-image: url(../img/obras/2025/union-sorocaba.jpeg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover19:hover{background-image: url(../img/obras/2025/union-sorocaba.jpeg);}
+
+.imghover20{
+	
+	background-image: url(../img/obras/2025/Biarritz2.jpg);
+	background-position: center 10px;
+	background-repeat: no-repeat;
+	background-size: 90%;
+	width: 163px; 
+	height: 183px;
+	text-align: center;
+}
+.imghover20:hover{background-image: url(../img/obras/2025/Biarritz1.jpg);}
+
